@@ -1,2 +1,2 @@
 # NMP Migration
-This directory contains migration scripts for the NMP project.
+This directory contains code associated with the migration tool for NMP
